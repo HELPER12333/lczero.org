@@ -56,7 +56,7 @@ Some ideas for inspiration:
 * Come up with more stats, and run them.
 * Web site for gathering stats for people who wants to provide more stats.
 * Tools to be able to run chess engine remotely (e.g. on colab while doing local analysis)
-* GUI for engines running remotely (e.g. like TUI we used for WCCC but through web).
+* GUI for engines running remotely (e.g. like TUI we used for WCCC but through web)
 * Better monitoring for server infrastructure.
 * Automate backup management.
 * Improve detection of malicious training games.
